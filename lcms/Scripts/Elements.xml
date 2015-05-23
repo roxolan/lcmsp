@@ -25,5 +25,9 @@
     <File Path="Scripts\angular-cookies.min.js.map" Url="Scripts/angular-cookies.min.js.map" ReplaceContent="TRUE" />
     <File Path="Scripts\angular-cookies.min.js" Url="Scripts/angular-cookies.min.js" ReplaceContent="TRUE" />
     <File Path="Scripts\angular-cookies.js" Url="Scripts/angular-cookies.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\moment-with-locales.min.js" Url="Scripts/moment-with-locales.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\moment-with-locales.js" Url="Scripts/moment-with-locales.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\moment.min.js" Url="Scripts/moment.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\moment.js" Url="Scripts/moment.js" ReplaceContent="TRUE" />
   </Module>
 </Elements>
