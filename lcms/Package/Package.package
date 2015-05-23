@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="1f7f59a4-1f12-4f51-9fab-a9ada8920df0" 
+        solutionId="1f7f59a4-1f12-4f51-9fab-a9ada8920df0" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="lcms"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="7cc9f3b1-d6f0-4e69-b443-1496a012db06" />
+  </features>
+</package>
